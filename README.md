@@ -8,5 +8,5 @@
   <p>- HTML</p>
   <p>- CSS</p>
   <br>
-  <img src="
+  <img src="https://github.com/SidneiGoulartJunior/Projeto-CSS---Wide/blob/master/img/Layout.wide1.png?raw=true" alt="layout-wide"/>
   
