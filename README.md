@@ -8,5 +8,7 @@
   <p>- HTML</p>
   <p>- CSS</p>
   <br>
+  <p>Acesse em <a href="https://sidneigoulartjunior.github.io/Projeto-CSS---Wide/">Projeto CSS Wide</a></p>
+  <br>
   <img src="https://github.com/SidneiGoulartJunior/Projeto-CSS---Wide/blob/master/img/Layout.wide1.png?raw=true" alt="layout-wide"/>
   
